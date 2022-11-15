@@ -1,0 +1,37 @@
+@charset "UFT-8";
+
+div{
+    width: 600px;
+    margin: 10px auto;
+    font-family: Tahoma;
+    text-align: center;
+}
+
+h1{
+    font-size: 28px;
+    text-decoration: underline;
+}
+
+h2{
+    font-size: 24px;
+    color: #bd4348;
+    font-weight: normal;
+}
+
+p{
+    font-size: 18px;
+    line-height: 28px;
+}
+
+span{
+    font-weight: bold;
+    color: #bd4348;
+}
+
+a{
+    background-color: #bd4348;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 2px 10px;
+}
