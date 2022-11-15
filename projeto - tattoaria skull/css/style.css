@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+div{
+   width: 500px;
+   margin: 0 auto;
+   text-align: center;
+   line-height: 28px;
+}
+
+h1{
+    font-size: 21px;
+}
+
+h2{
+    color: #757575;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+a{
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.imagem-logotipo{
+    width: 150px;
+}
+
+.texto-negrito{
+    font-weight: bold;
+}
+
+.texto-vermelho{
+    color: #ff0000;
+}
+
+.imagem-rede-social{
+    width: 40px;
+}
