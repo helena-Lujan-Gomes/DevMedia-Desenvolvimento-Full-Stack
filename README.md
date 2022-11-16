@@ -1,3 +1,7 @@
+<div>
+  <img align="right" src="https://user-images.githubusercontent.com/94927107/202265955-b983bdc4-6acb-4e5a-912a-8120835cb493.jpg" alt="DevMedia" width="200px">
+</div>
+
 # 📋 Indíce
 
 - [Bem-vindo](#id01)
