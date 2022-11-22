@@ -87,11 +87,12 @@ Construção de uma carreira sólida em programação.
 
 <br />
 
-- Clique no link para acessar a página do curso: https://www.devmedia.com.br/carreira-programador/?slug=todos
-- Clique no link para acessar a página do projeto - aluguel de brinquedos - treino - seletor de tag: https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20aluguel%20de%20brinquedos%20-%20treino%20-%20seletor%20de%20tag/index.html
-- Clique no link para acessar a página do projeto - curso idiomas - treino - reaproveitando classes: https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20curso%20idiomas%20-%20treino%20-%20reaproveitando%20classes/index.html
-- Clique no link para acessar a página do projeto - fargo - treino - agrupando seletores: https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20fargo%20-%20treino%20-%20agrupando%20seletores/index.html
-- Clique no link para acessar a página do projeto - tattoaria skull - treino - seletor de classe: https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20tattoaria%20skull%20-%20treino%20-%20seletor%20de%20classe/index.html
+- [Clique no link para acessar a Página do Curso](https://www.devmedia.com.br/carreira-programador/?slug=todos)
+- [Clique no link para acessar a página do Projeto - Aluguel de Brinquedos - treino - Seletor de Tag](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20aluguel%20de%20brinquedos%20-%20treino%20-%20seletor%20de%20tag/index.html)
+- [Clique no link para acessar a página do Projeto - Curso Idiomas - treino - Reaproveitando Classes ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20curso%20idiomas%20-%20treino%20-%20reaproveitando%20classes/index.html)
+- [Clique no link para acessar a página do Projeto - Fargo - treino - Agrupando Seletores ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20fargo%20-%20treino%20-%20agrupando%20seletores/index.html)
+- [Clique no link para acessar a página do Projeto - Tattoaria Skull - treino - Seletor de Classe ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20tattoaria%20skull%20-%20treino%20-%20seletor%20de%20classe/index.html)
+
 
 <br />
 
