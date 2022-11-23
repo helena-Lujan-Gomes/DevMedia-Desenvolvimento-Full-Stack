@@ -92,6 +92,7 @@ Construção de uma carreira sólida em programação.
 - [Clique no link para acessar a página do Projeto - Curso Idiomas - treino - Reaproveitando Classes ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20curso%20idiomas%20-%20treino%20-%20reaproveitando%20classes/index.html)
 - [Clique no link para acessar a página do Projeto - Fargo - treino - Agrupando Seletores ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20fargo%20-%20treino%20-%20agrupando%20seletores/index.html)
 - [Clique no link para acessar a página do Projeto - Tattoaria Skull - treino - Seletor de Classe ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20tattoaria%20skull%20-%20treino%20-%20seletor%20de%20classe/index.html)
+- [Clique no link para acessar a página do Projeto - Clube Mega Ville - treino - Descendência de Elementos ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20clube%20mega%20ville%20-%20treino%20-%20descend%C3%AAncia%20de%20elementos/index.html)
 
 
 <br />
