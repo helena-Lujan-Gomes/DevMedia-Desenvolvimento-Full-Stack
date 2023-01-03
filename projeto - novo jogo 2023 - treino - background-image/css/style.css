@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/********************/
+/* 0. General Styles
+/* 1. Header
+/* 2. Content
+/********************/
+
+/********************/
+/* 0. General Styles
+/********************/
+
+body {
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+}
+
+/********************/
+/* 1. Header
+/********************/
+
+.header {
+    background-color: #4a9ef1;
+    text-align: center;
+    padding: 10px 20px;
+}
+
+.header p {
+    margin: 0 auto;
+    font-size: 22px;
+    color: #ffffff;
+}
+
+/********************/
+/* 2. Content
+/********************/
+
+.content {
+    width: 650px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    color: rgb(201, 201, 201);
+    margin-top: 20px;
+}
+
+.content p {
+    line-height: 28px;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.content img {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.content span {
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.purchase {
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid #ffffff;
+    width: 400px;
+    padding: 0 20px 20px;
+    margin-top: 20px;
+}
+
+.purchase a {
+    background-color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 20px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.purchase p {
+    margin-bottom: 20px;
+}
+
