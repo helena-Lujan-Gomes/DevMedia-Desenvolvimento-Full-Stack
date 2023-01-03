@@ -100,6 +100,7 @@ Construção de uma carreira sólida em programação.
 - [Clique no link para acessar a página do Projeto - Padaria Plus - treino - Estilização Através de Seletores ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20padaria%20plus%20-%20treino%20-%20estiliza%C3%A7%C3%A3o%20atrav%C3%A9s%20de%20seletores/index.html)
 - [Clique no link para acessar a página do Projeto - Imobiliária Santos - desafio - Estilização Através de Seletores ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20imobili%C3%A1ria%20santos%20-%20desafio/index.html)
 - [Clique no link para acessar a página do Projeto - Página Anéis do Poder - treino - Background ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20pagina%20aneis%20do%20poder%20-%20treino%20-%20background//index.html)
+- [Clique no link para acessar a página do Projeto - Novo Jogo 2023 - treino - Background-image ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20novo%20jogo%202023%20-%20treino%20-%20background-image/index.htm)
 
 
 <br />
