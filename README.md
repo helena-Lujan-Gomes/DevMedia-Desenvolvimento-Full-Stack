@@ -88,6 +88,10 @@ Construção de uma carreira sólida em programação.
 <br />
 
 - [Clique no link para acessar a Página do Curso](https://www.devmedia.com.br/carreira-programador/?slug=todos)
+
+<br />
+
+**Módulo 1 - Projetos HTML e CSS**
 - [Clique no link para acessar a página do Projeto - Aluguel de Brinquedos - treino - Seletor de Tag](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20aluguel%20de%20brinquedos%20-%20treino%20-%20seletor%20de%20tag/index.html)
 - [Clique no link para acessar a página do Projeto - Curso Idiomas - treino - Reaproveitando Classes ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20curso%20idiomas%20-%20treino%20-%20reaproveitando%20classes/index.html)
 - [Clique no link para acessar a página do Projeto - Fargo - treino - Agrupando Seletores ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20fargo%20-%20treino%20-%20agrupando%20seletores/index.html)
