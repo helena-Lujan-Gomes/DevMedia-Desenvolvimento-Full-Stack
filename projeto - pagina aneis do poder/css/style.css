@@ -1,0 +1,77 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/********************/
+/* 0. General Styles
+/* 1. Header
+/* 2. Content
+/********************/
+
+/********************/
+/* 0. General Styles
+/********************/
+
+body {
+    background-color: #250553;
+}
+
+/********************/
+/* 1. Header
+/********************/
+
+.header {
+    background-color: #02021c;
+    height: 50px;
+    padding: 10px 0;
+}
+
+h1 {
+    color: #ffffff;
+    margin: 0;
+    text-align: center;
+    font-size: 18px;
+}
+
+/********************/
+/* 2. Content
+/********************/
+
+.content {
+    color: #cfcfcf;
+    margin: 0 auto;
+    padding: 20px 80px;
+    text-align: center;
+    width: 750px;
+}
+
+h2 {
+    padding-bottom: 20px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 36px;
+}
+
+img {
+    height: 400px;
+    margin-bottom: 15px;
+}
+
+.highlight-text {
+    background-color: #b535f6;
+    color: #ffffff;
+    padding: 5px 15px;
+    font-weight: bold;
+    border-radius: 2px;
+}
+
+.margin {
+    margin-bottom: 20px;
+}
+
