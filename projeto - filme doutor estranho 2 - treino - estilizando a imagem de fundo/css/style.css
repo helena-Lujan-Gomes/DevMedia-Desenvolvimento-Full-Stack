@@ -1,0 +1,92 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/********************/
+/* 0. general styles
+/* 1. section-header
+/* 2. section-content
+/* 3. section-divulgation
+/********************/
+
+
+/********************/
+/* 0. general styles
+/********************/
+
+p {
+    line-height: 26px;
+}
+
+/********************/
+/* 1. section-header
+/********************/
+
+.section-header {
+    background-image: url(../img/capa.jpg);
+    background-attachment: fixed;
+    min-height: 600px;
+    text-align: center;
+    padding: 50px;
+}
+
+h1,
+h2 {
+    margin: 0 auto;
+    color: #ffffff;
+    padding: 10px;
+    width: 300px;
+}
+
+h1 {
+    background-color: #000000;
+}
+
+h2 {
+    background-color: #f00000;
+}
+
+/********************/
+/* 2. section-content
+/********************/
+
+.section-content {
+    width: 800px;
+    margin: 0 auto;
+    padding: 50px 20px;
+}
+
+.section-content img {
+    width: 200px;
+    height: 250px;
+}
+
+h3 {
+    margin-bottom: 10px;
+}
+
+.special {
+    margin-bottom: 15px;
+}
+
+span {
+    background-color: #f00000;
+    color: #ffffff;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+
+/********************/
+/* 3. section-divulgation
+/********************/
+
+.section-divulgation {
+    background-image: url(../img/img1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 200px;
+}
