@@ -1,0 +1,84 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/********************/
+/* 1. General styles
+/* 2. Header
+/* 3. Content
+/********************/
+
+
+
+/********************/
+/* 1. General styles
+/********************/
+
+body {
+    background-image: url('../img/fundo-floresta.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+section {
+    background-color: #ffffff;
+    width: 600px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 15px 20px;
+}
+
+/********************/
+/* 2. Header
+/********************/
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 1.4rem;
+    font-weight: normal;
+}
+
+/********************/
+/* 3. Content
+/********************/
+
+h3 {
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+
+img {
+    width: 100%;
+    margin: 0 auto;
+    align-items: center;
+    margin-bottom: 3px;
+}
+
+p {
+    line-height: 18px;
+    font-size: 16px;
+    justify-content: justify;
+}
+
+@media (max-width: 800px) {
+    body {
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+    section {
+        width: 70%;
+    }
+}
