@@ -1,0 +1,144 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Fredoka', sans-serif;
+}
+
+/********************/
+/* 1. Estilos gerais
+/* 2. Topo
+/* 3. Seção inicial com imagem de fundo
+/* 4. Seção sobre
+/* 5. Seção com imagem de fundo e texto
+/* 6. Seção areas
+/* 7. Seção contato
+/********************/
+
+
+/********************/
+/* 1. Estilos gerais
+/********************/
+
+.secao-largura-limitada {
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1,
+h2,
+h3 {
+    margin: 0;
+}
+
+/********************/
+/* 2. Topo
+/********************/
+
+.secao-topo {
+    border-bottom: 1px solid #d5d5d5;
+}
+
+.secao-topo p {
+    font-weight: bold;
+    padding: 20px;
+    font-size: 22px;
+}
+
+/********************/
+/* 3. Seção inicial com imagem de fundo
+/********************/
+
+.secao-background-capa {
+    background-image: url('../img/capa.jpg');
+    background-size: cover;
+    min-height: 500px;
+}
+
+.secao-background-conteudo {
+    text-align: right;
+    padding: 50px 20px;
+}
+
+/********************/
+/* 4. Seção sobre
+/********************/
+
+.secao-sobre {
+    padding: 50px 20px;
+}
+
+.img-sobre {
+    width: 250px;
+    height: 180px;
+}
+
+.secao-sobre p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.secao-sobre span {
+    border-left: 1px solid;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+/********************/
+/* 5. Seção com imagem de fundo e texto
+/********************/
+
+.secao-background-divisao {
+    background-image: url('../img/fundo.jpg');
+    padding: 50px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.secao-background-divisao h3 {
+    text-align: center;
+    background-color: #ffffff;
+    width: 200px;
+    margin: 0 auto;
+    font: 36px;
+    border-radius: 20px;
+}
+
+/********************/
+/* 6. Seção areas
+/********************/
+
+.secao-areas {
+    padding: 50px 20px;
+}
+
+.secao-areas p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.secao-areas ul {
+    margin-left: 40px;
+}
+
+/********************/
+/* 7. Seção contato
+/********************/
+
+.secao-contato {
+    padding: 50px 20px;
+}
+
+.secao-contato h3 {
+    margin-bottom: 10px;
+}
+
+.secao-contato ul {
+    margin-left: 40px;
+}
+
