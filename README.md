@@ -91,9 +91,10 @@ Construção de uma carreira sólida em programação.
 
 <br />
 
-**Carreira Programador Front-end: Módulo 1 - Projetos HTML e CSS**
+🟢 **Carreira Programador Front-end: Módulo 1 - Projetos HTML e CSS**
 
-**Projetos - Treinos**
+
+◼ **Projetos - Treinos**
 
 - [Clique no link para acessar a página do Projeto - Aluguel de Brinquedos - treino - Seletor de Tag](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20aluguel%20de%20brinquedos%20-%20treino%20-%20seletor%20de%20tag/index.html)
 - [Clique no link para acessar a página do Projeto - Curso Idiomas - treino - Reaproveitando Classes ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20curso%20idiomas%20-%20treino%20-%20reaproveitando%20classes/index.html)
@@ -107,7 +108,8 @@ Construção de uma carreira sólida em programação.
 - [Clique no link para acessar a página do Projeto - Florestas - treino - Background-attachment ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20florestas%20-%20treino%20-%20background-attachment/index.html)
 
 
-**Projetos - Desafios**
+
+◼ **Projetos - Desafios**
 
 - [Clique no link para acessar a página do Projeto - Imobiliária Santos - desafio - Estilização Através de Seletores ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20imobili%C3%A1ria%20santos%20-%20desafio/index.html)
 
