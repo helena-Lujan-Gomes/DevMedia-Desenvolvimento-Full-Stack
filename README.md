@@ -104,6 +104,8 @@ Construção de uma carreira sólida em programação.
 - [Clique no link para acessar a página do Projeto - Página Anéis do Poder - treino - Background ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20pagina%20aneis%20do%20poder%20-%20treino%20-%20background//index.html)
 - [Clique no link para acessar a página do Projeto - Novo Jogo 2023 - treino - Background-image ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20novo%20jogo%202023%20-%20treino%20-%20background-image/index.html)
 - [Clique no link para acessar a página do Projeto - Filme Doutor Estranho 2 - treino - Estilização da Imagem de Fundo ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20filme%20doutor%20estranho%202%20-%20treino%20-%20estilizando%20a%20imagem%20de%20fundo/index.html)
+- [Clique no link para acessar a página do Projeto - Florestas - treino - Background-attachment ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20florestas%20-%20treino%20-%20background-attachment/index.html)
+
 
 **Projetos - Desafios**
 
