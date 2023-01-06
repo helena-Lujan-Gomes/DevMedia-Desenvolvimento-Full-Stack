@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/********************/
+/* 1. Topo e Rodape
+/* 2. Container
+/* 3. Área
+/********************/
+
+
+/********************/
+/* 1. Topo e Rodape
+/********************/
+
+.topo,
+.rodape {
+    width: 100%;
+    background-color: #ff8014;
+    padding: 16px 0;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+}
+
+/********************/
+/* 2. Container
+/********************/
+
+.container-limita-largura {
+    width: 100%;
+    max-width: 1024px;
+    min-width: 320px;
+    margin: 0 auto;
+}
+
+/********************/
+/* 3. Área
+/********************/
+
+.area {
+    margin: 20px 35px;
+}
+
+.area p,
+.area-tres-imagens {
+    width: 100%;
+    margin: 15px 0;
+}
+
+.apresentacao {
+    width: calc(100% - 70px);
+    height: 315px;
+    overflow-y: scroll;
+}
+
+.area-tres-imagens {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.galeria img {
+    width: calc((100% / 3) - 3px);
+    margin: 0 1.5px;
+}
