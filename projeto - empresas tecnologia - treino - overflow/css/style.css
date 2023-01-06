@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/********************/
+/* 1. Container
+/* 2. Topo e Rodapé
+/* 3. Área
+/********************/
+
+/********************/
+/* 1. Container
+/********************/
+
+.container-limita-largura {
+    width: 100%;
+    min-width: 320px;
+    max-width: 1024px;
+    margin: 20px auto;
+}
+
+/********************/
+/* 2. Topo e Rodapé
+/********************/
+
+.topo,
+.rodape {
+    width: 100%;
+    background-color: #952424;
+    padding: 16px 0;
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+}
+
+/********************/
+/* 3. Área
+/********************/
+
+.area {
+    margin: 0px 35px 20px 35px;
+    width: calc(100% - 110px);
+    height: calc(50vh - 70px);
+    padding: 15px 20px;
+    overflow: scroll;
+}
+
+.nvidia {
+    background: #38c965;
+}
+
+.amd {
+    background: #ff5959;
+}
+
+.area p {
+    width: 100%;
+    margin: 15px 0;
+}
