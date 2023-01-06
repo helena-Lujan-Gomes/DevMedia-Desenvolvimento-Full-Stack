@@ -1,0 +1,74 @@
+@charset "UTF-8 ";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/********************/
+/* 1. Container
+/* 2. Topo e rodapé
+/* 3. Secao area
+/********************/
+
+
+/********************/
+/* 1. Container
+/********************/
+
+.container-limita-largura {
+    width: 100%;
+    margin: 0 auto;
+    min-width: 320px;
+    max-width: 1024px;
+}
+
+/********************/
+/* 2. Topo e rodapé
+/********************/
+
+.topo, .rodape {
+    width: 100%;
+    background-color: #1d6e4d;
+    padding: 16px 0;
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff;
+}
+
+/********************/
+/* 3. Secao area
+/********************/
+
+.area {
+    width: calc(100% - 70px);
+    margin: 20px 35px;
+}
+
+.apresentacao img, .area p, .area-tres-imagens {
+    width: 100%;
+    margin: 15px 0;
+}
+
+.area-tres-imagens {
+    display: flex;
+}
+
+.galeria img {
+    width: calc((100% / 3) - 3px);
+    margin: 0 1.5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
