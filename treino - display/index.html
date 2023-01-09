@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treino - display</title>
+    <style>
+        body {
+            background-color: #000000;
+        }
+
+        img {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+        }
+
+        .perfil p {
+            display: inline;
+        }
+
+        .card {
+            width: calc((100% / 3) - 10px);
+            margin: 0 5px;
+            background-color: #d9d9d9;
+            padding: 0px 15px 15px 15px;
+            border-radius: 12px;
+            font-family: sans-serif;
+        }
+
+        .area {
+            width: 100%;
+            display: flex;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="area">
+
+        <div class="card">
+            <p class="review">
+                "Muito bom o site, tem tudo que eu preciso!"
+            </p>
+            <div class="perfil">
+                <img src="img/marcos.jpg" alt="">
+                <p>Marcos</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <p class="review">
+                "Eu gostei do serviço, me ajudou muito no meu projeto!"
+            </p>
+            <div class="perfil">
+                <img src="img/julia.jpg" alt="">
+                <p>Julia</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <p class="review">
+                "Era tudo que eu queria pra terminar meu trabalho."
+            </p>
+            <div class="perfil">
+                <img src="img/guilherme.jpg" alt="">
+                <p>Guilherme</p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
