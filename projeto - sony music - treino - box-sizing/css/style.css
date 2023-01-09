@@ -1,0 +1,101 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/********************/
+/* 1. Header
+/* 2. Imagem
+/* 3. Main
+/********************/
+
+
+/********************/
+/* 1. Header
+/********************/
+
+.header {
+    background-color: #cf010b;
+    text-align: center;
+}
+
+.links {
+    padding: 14px 0;
+}
+
+.links li {
+    display: inline;
+    padding: 0 12px;
+}
+
+.links li a {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+/********************/
+/* 2. Imagem
+/********************/
+
+img {
+    width: 100%;
+    background-color: #a30109;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/********************/
+/* 3. Main
+/********************/
+
+.main {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.area {
+    width: 100%;
+    padding: 0 20px 50px 20px;
+    box-sizing: border-box;
+}
+
+.area h2,
+.area h3,
+.area p {
+    padding: 0 12px;
+}
+
+.area p {
+    line-height: 25px;
+    margin: 12px 0;
+}
+
+.area h2 {
+    margin: 15px 0;
+}
+
+.area h3 {
+    margin: 12px 0;
+}
+
+#contato p {
+    height: 40px;
+}
+
+#contato ul,
+#contato ul li {
+    display: inline;
+}
+
+#contato ul {
+    margin: 0 12px;
+}
+
+#contato ul li a {
+    color: #ffffff;
+    background-color: #cf010b;
+    padding: 10px;
+}
