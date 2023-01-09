@@ -108,7 +108,9 @@ Construção de uma carreira sólida em programação.
 - [Clique no link para acessar a página do Projeto - Florestas - treino - Background-attachment ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20florestas%20-%20treino%20-%20background-attachment/index.html)
 - [Clique no link para acessar a página do Projeto - Jardim Botânico - treino - Valores Relativos ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20jardim%20bot%C3%A2nico%20-%20treino%20-%20valores%20relativos/index.html)
 - [Clique no link para acessar a página do Projeto - Empresas Tecnologia - treino - Overflow ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20empresas%20tecnologia%20-%20treino%20-%20overflow/index.html)
-- [Clique no link para acessar a página do Projeto - Bioparque - treino - overflow-x / overflow-y ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20bioparque%20-%20treino%20-%20overflow-x%20e%20overflow-y/index.html)
+- [Clique no link para acessar a página do Projeto - Bioparque - treino - Overflow-x / Overflow-y ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20bioparque%20-%20treino%20-%20overflow-x%20e%20overflow-y/index.html)
+- [Clique no link para acessar a página do Projeto - Serviços de Entrega - treino - Exibindo e Ocultando Elementos ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20servico%20de%20entregas%20-%20treino%20-%20exibindo%20e%20ocultando%20elementos/index.html)
+
 
 
 
