@@ -120,6 +120,7 @@ Construção de uma carreira sólida em programação.
 
 - [Clique no link para acessar a página do Projeto - Imobiliária Santos - desafio - Estilização Através de Seletores ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20imobili%C3%A1ria%20santos%20-%20desafio/index.html)
 - [Clique no link para acessar a página do Projeto - Divulgação de Serviço - desafio - CSS Background ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20divulga%C3%A7%C3%A3o%20de%20servi%C3%A7o%20-%20desafio%20-%20CSS%20Background/index.html)
+- [Clique no link para acessar a página do Projeto - Pokémons - desafio - Caixas (Box Model) ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20pokemon%20-%20desafio%20-%20caixas-box-model/index.html)
 
 <br />
 
