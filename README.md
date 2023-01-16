@@ -122,6 +122,7 @@ Construção de uma carreira sólida em programação.
 - [Clique no link para acessar a página do Projeto - Divulgação de Serviço - desafio - CSS Background ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20divulga%C3%A7%C3%A3o%20de%20servi%C3%A7o%20-%20desafio%20-%20CSS%20Background/index.html)
 - [Clique no link para acessar a página do Projeto - Pokémons - desafio - Caixas (Box Model) ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20pokemon%20-%20desafio%20-%20caixas-box-model/index.html)
 - [Clique no link para acessar a página do Projeto - Série Superman & Lois - desafio - Caixas (Box Model) ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20serie%20superman%20&%20lois%20-%20desafio%20-%20caixas-box-model/index.html)
+- [Clique no link para acessar a página do Projeto - Carros & Cia - desafio - Position-fixed ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20carros-cia%20-%20desafio%20-%20position/index.html)
 
 <br />
 
