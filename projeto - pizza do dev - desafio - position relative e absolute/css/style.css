@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    color: #ff1700;
+    font-weight: bolder;
+}
+
+.container {
+    border: 3px solid #ff1700;
+    width: 700px;
+    margin: 50px auto;
+    padding: 30px 30px 60px;
+    position: relative;
+}
+
+h3 {
+    margin-bottom: 20px;
+    font-size: 26px;
+    font-weight: bolder;
+}
+
+.ingredientes {
+    font-size: 20px;
+}
+
+.icone {
+    background-color: #ff1700;
+    color: #fff700;
+    width:  70px;
+    height: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 50%;
+    padding-top: 20px;
+    position: absolute;
+    top: -45px;
+    left: -25px;
+}
+
+.btn-fazer-pedido {
+    border: none;
+    text-decoration: none;
+    color: #fff700;
+    background-color: #ff1700;
+    border-radius: 5px;
+    padding: 15px;
+    font-weight: bolder;
+    font-size: 18px;
+    width: 240px;
+    text-align: center;
+    position: absolute;
+    right: 10px;
+    bottom: -26px;
+}
