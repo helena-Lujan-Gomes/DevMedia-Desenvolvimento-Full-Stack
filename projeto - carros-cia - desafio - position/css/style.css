@@ -1,0 +1,127 @@
+@charset "UTF-8";
+
+
+/********************/
+/* 1. Estilos globais
+/* 2. Estilos para destaque
+/* 3. Seção topo
+/* 4. Seção banner
+/* 5. Seção contato
+/********************/
+
+
+/********************/
+/* 1. Estilos globais
+/********************/
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Tahoma;
+}
+
+.secao {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.paragrafo {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;
+}
+
+h2 {
+    font-weight: normal;
+    color: #000000;
+    margin-top: 0;
+}
+
+h3 {
+    font-size: 28px;
+    line-height: 42px;
+    color: #000000;
+}
+
+.imagem {
+    width: 450px;
+}
+
+/********************/
+/* 2. Estilos para destaque
+/********************/
+
+span {
+    font-weight: bold;
+}
+
+.texto-amarelo {
+    color: #d59600;
+}
+
+/********************/
+/* 3. Seção topo
+/********************/
+
+.topo {
+    width: 100%;
+    background-color: #000000;
+    border-bottom: 1px solid #d5960054;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: fixed;
+
+}
+
+h1 {
+    color: #d59600;
+    margin-bottom: 5px;
+}
+
+.paragrafo-topo {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.link-topo {
+    color: #d59600;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 0 10px;
+    border-bottom: 2px solid #d59600;
+}
+
+/********************/
+/* 4. Seção banner
+/********************/
+
+.banner {
+    padding-top: 0;
+}
+
+.banner-img {
+    width: 100%;
+}
+
+/********************/
+/* 5. Seção contato
+/********************/
+
+.link {
+    text-decoration: none;
+    border-bottom: 2px solid #d59600;
+}
+
+.paragrafo-contato {
+    text-align: center;
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
