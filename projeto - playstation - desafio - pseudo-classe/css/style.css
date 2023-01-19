@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header, footer {
+    width: 100%;
+    background-color:#1b0fdf;
+    height: 42px;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-capa {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    margin: 15px 0;
+}
+
+section {
+    width: 100%;
+    padding: 0 25px;
+    margin: 0 0 20px 0;
+}
+
+section h2 {
+    margin: 0 0 15px 0;
+}
+
+ul {
+    margin: 0 20px;
+}
+
+a {
+    color: #1b0fdf;
+}
+
+a:visited {
+    color: #00894a;
+}
+
+.img-jogos img {
+    width: calc((100% - 9px) / 3);
+}
+
+.img-jogos img:hover {
+    border: 3px solid #1b0fdf;
+}
