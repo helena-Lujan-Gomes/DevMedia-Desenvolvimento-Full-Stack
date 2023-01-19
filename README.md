@@ -111,6 +111,7 @@ Construção de uma carreira sólida em programação.
 - [Clique no link para acessar a página do Projeto - Bioparque - treino - Overflow-x / Overflow-y ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20bioparque%20-%20treino%20-%20overflow-x%20e%20overflow-y/index.html)
 - [Clique no link para acessar a página do Projeto - Serviços de Entrega - treino - Exibindo e Ocultando Elementos ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20servico%20de%20entregas%20-%20treino%20-%20exibindo%20e%20ocultando%20elementos/index.html)
 - [Clique no link para acessar a página do Projeto - Sony Music - treino - Box-sizing: border-box ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20sony%20music%20-%20treino%20-%20box-sizing/index.html)
+- [Clique no link para acessar a página do Projeto - Tabela Consoles - treino - Tabelas ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20tabela-consoles%20-%20treino%20-%20tabelas/index.html)
 
 
 
