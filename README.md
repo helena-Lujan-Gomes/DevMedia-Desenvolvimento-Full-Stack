@@ -125,6 +125,7 @@ Construção de uma carreira sólida em programação.
 - [Clique no link para acessar a página do Projeto - Série Superman & Lois - desafio - Caixas (Box Model) ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20serie%20superman%20&%20lois%20-%20desafio%20-%20caixas-box-model/index.html)
 - [Clique no link para acessar a página do Projeto - Carros & Cia - desafio - Position-fixed ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20carros-cia%20-%20desafio%20-%20position/index.html)
 - [Clique no link para acessar a página do Projeto - Pizza do Dev - desafio - Position-relative e absolute ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20pizza%20do%20dev%20-%20desafio%20-%20position%20relative%20e%20absolute/index.html)
+- [Clique no link para acessar a página do Projeto - GameStore - desafio - Pseudo-classes estruturais - of-type ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20gamestore%20-%20desafio%20-%20pseudo-classes%20estruturais-%20of-type/index.html)
 - [Clique no link para acessar a página do Projeto - PlayStation - desafio - Pseudo-classe ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20playstation%20-%20desafio%20-%20pseudo-classe/index.html)
 
 <br />
