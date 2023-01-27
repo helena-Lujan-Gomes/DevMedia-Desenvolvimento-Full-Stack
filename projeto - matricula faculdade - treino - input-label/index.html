@@ -20,19 +20,19 @@
 
         <form action="https://www.devmedia.com.br/codigos/formularios/aula3/">
             <label>Nome: </label>
-            <input type="text" name="nome" />
+            <input placeholder="Digite seu nome completo" type="text" name="nome" required />
             <label>Data de Nascimento: </label>
-            <input type="date" name="data_nascimento" />
+            <input type="date" name="data_nascimento" max="2004-03-01" required/>
             <label>Email:</label>
-            <input type="email" name="email" />
+            <input placeholder="exemplo@email.com" type="email" name="email" required />
             <label>Telefone:</label>
-            <input type="tel" name="telefone" />
+            <input placeholder="(XX) XXXXX-XXXX" type="tel" name="telefone" minlength="14" required />
             <label>Melhor dia para vencimento:</label>
-            <input type="number" name="dia_vencimento" />
+            <input placeholder="Valores entre 10 e 20" type="number" name="dia_vencimento" min="10" max="20" required />
             <label>Login:</label>
-            <input type="text" name="login" />
+            <input placeholder="Digite seu login" type="text" name="login" minlength="3" required/>
             <label>Senha:</label>
-            <input type="password" name="senha" />
+            <input placeholder="Digite sua senha" type="password" name="senha" minlength="4" maxlength="8" required />
             <button type="submit">Enviar Matrícula</button>
         </form>
     </main>
