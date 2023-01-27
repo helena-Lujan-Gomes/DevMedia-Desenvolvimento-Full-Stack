@@ -117,6 +117,7 @@ Construção de uma carreira sólida em programação.
 - [Clique no link para acessar a página do Projeto - Halo Infinite - treino - Pseudo-classes estruturais ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20halo-infinite%20-%20treino%20-%20pseudo-classes%20estruturais/index.html)
 - [Clique no link para acessar a página do Projeto - Cyber Express - treino - Formulário ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20cyberexpress%20-%20treino%20-%20form/index.html)
 - [Clique no link para acessar a página do Projeto - Matrícula Faculdade - treino - Input-Label e Validações ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20matricula%20faculdade%20-%20treino%20-%20input-label/index.html)
+- [Clique no link para acessar a página do Projeto - Questionário de Pesquisa - treino - Checkbox ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20questionario%20de%20pesquisa%20-%20treino%20-%20checkbox/)
 
 
 
