@@ -118,6 +118,7 @@ Construção de uma carreira sólida em programação.
 - [Clique no link para acessar a página do Projeto - Cyber Express - treino - Formulário ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20cyberexpress%20-%20treino%20-%20form/index.html)
 - [Clique no link para acessar a página do Projeto - Matrícula Faculdade - treino - Input-Label e Validações ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20matricula%20faculdade%20-%20treino%20-%20input-label/index.html)
 - [Clique no link para acessar a página do Projeto - Questionário de Pesquisa - treino - Checkbox ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20questionario%20de%20pesquisa%20-%20treino%20-%20checkbox/)
+- [Clique no link para acessar a página do Projeto - Entrega Revista - treino - Fieldset ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20form%20revista%20-%20treino%20-%20fieldset/index.html)
 
 
 
@@ -135,8 +136,8 @@ Construção de uma carreira sólida em programação.
 - [Clique no link para acessar a página do Projeto - GameStore - desafio - Pseudo-classes estruturais - of-type ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20gamestore%20-%20desafio%20-%20pseudo-classes%20estruturais-%20of-type/index.html)
 - [Clique no link para acessar a página do Projeto - Game Review - desafio - Pseudo-classes estruturais - child ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20gameereview%20-%20desafio%20-%20pseudoclasse-child/index.html)
 - [Clique no link para acessar a página do Projeto - PlayStation - desafio - Pseudo-classe ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20playstation%20-%20desafio%20-%20pseudo-classe/index.html)
-- [Clique no link para acessar a página do Projeto - MedCompany - desafio - Radio ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20form-exame-medico%20-%20treino%20-%20radio/index.html)
-- [Clique no link para acessar a página do Projeto - Vagas Dev - desafio - Select ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20vagasdev%20-%20treino%20-%20select/index.html)
+- [Clique no link para acessar a página do Projeto - MedCompany - desafio - Radio ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20form-exame-medico%20-%20desafio-%20radio/index.html)
+- [Clique no link para acessar a página do Projeto - Vagas Dev - desafio - Select ](https://helena-lujan-gomes.github.io/DevMedia-Desenvolvimento-Full-Stack/projeto%20-%20vagasdev%20-%20desafio-%20select/index.html)
 
 <br />
 
